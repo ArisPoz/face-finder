@@ -1,0 +1,13 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    justify-content: flex-start;
+}
+
+.buttons {
+    justify-content: flex-end;
+
+}
